@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recursion.iml" filepath="$PROJECT_DIR$/.idea/modules/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recursion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/recursion_main.iml" group="recursion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recursion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/recursion_test.iml" group="recursion" />
+    </modules>
+  </component>
+</project>
